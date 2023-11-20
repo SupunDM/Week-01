@@ -1,0 +1,8 @@
+# Week 1 | Computer Systems and Applications
+
+## Task 1. View Your Computer Information
+
+To access our computer information, we need provide following command the on
+the Windows Power Shell
+
+  1. Get-ComputerInfo
